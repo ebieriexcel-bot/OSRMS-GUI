@@ -1,5 +1,8 @@
 # OSRMS GUI Version - Enhanced UI
-# Author: Excel Jones
+# Author: Ebieri Excel Ebieri
+# Department: Cyber Security
+# Matric NO: 24/14574
+# Level: 200 Level
 
 
 import sqlite3
@@ -636,3 +639,4 @@ class OSRMSAPP(tk.Tk):
 if __name__ == "__main__":
     app = OSRMSAPP()
     app.mainloop()
+
